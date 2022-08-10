@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**gauravexp261/gauravexp261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gaurav ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+I have a Post Graduate Diploma in Data science from IIIT - Bangalore with hands-on experience in Machine Learning. Proficient in Python programming, Data modelling and machine learning algorithms. Passionate about leveraging technology to impact other industries and businessess. Equipped with 1+ years of professional experience in Sales and Marketing.Expert in coordinating with the cross-functional teams to deliver the projects within a stipulated time while ensuring optimum
+customer satisfaction. Honest, detail-oriented and organised individual looking for challenging opportunities in Machine learning/ Data science domain.
+
+
+
+
+
+
+## 🔗 Links
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gauravmalik26/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-malik-052a4a149/)
+
+
+
+## 🛠 Skills
+1. Python
+2. Machine Learning
+3. Data Science 
+
+
+## Summary of my Journey
+👩‍💻 Started as an Engineer
+
+🧠 B.Tech in Electronics and Telecommuninication and M.B.A. in 
+   Operations, Marketing and Information systems
+
+🤔 Post Graduate Diploma in Data Science 
+
+💬 more details loading...
+
+📫...
+
+😄 ...
+
+⚡️ ...
+
+
+![Logo](https://github-readme-stats.vercel.app/api?username=gauravexp261&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
