@@ -5,8 +5,7 @@
 
 
 
-I have a Post Graduate Diploma in Data science from IIIT - Bangalore with hands-on experience in Machine Learning. Proficient in Python programming, Data modelling and machine learning algorithms. Passionate about leveraging technology to impact other industries and businessess. Equipped with 1+ years of professional experience in Sales and Marketing.Expert in coordinating with the cross-functional teams to deliver the projects within a stipulated time while ensuring optimum
-customer satisfaction. Honest, detail-oriented and organised individual looking for challenging opportunities in Machine learning/ Data science domain.
+I have a Post Graduate Diploma in Data science from IIIT - Bangalore with hands-on experience in Machine Learning. Proficient in Python programming, Data modelling and machine learning algorithms. Passionate about leveraging technology to impact other industries and businessess. 
 
 
 
