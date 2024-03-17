@@ -20,25 +20,12 @@ I have a Post Graduate Diploma in Data science from IIIT - Bangalore with hands-
 
 ## 🛠 Skills
 1. Python
-2. Machine Learning
-3. Data Science 
+2. SQL
+3. Power BI
+4. Machine Learning 
 
 
-## Summary of my Journey
-👩‍💻 Started as an Engineer
 
-🧠 B.Tech in Electronics and Telecommuninication and M.B.A. in 
-   Operations, Marketing and Information systems
-
-🤔 Post Graduate Diploma in Data Science 
-
-💬 more details loading...
-
-📫...
-
-😄 ...
-
-⚡️ ...
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=gauravexp261&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
